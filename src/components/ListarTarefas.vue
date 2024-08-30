@@ -5,11 +5,6 @@ defineProps({
         default: false
     }
 })
-defineProps({
-    tarefas: [{
-        
-    }]
-})
 
 </script>
 
